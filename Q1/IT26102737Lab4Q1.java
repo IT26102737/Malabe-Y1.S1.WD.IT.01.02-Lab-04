@@ -20,5 +20,5 @@ public class IT26102737Lab4Q1
          }
         
          scanner.close();
-    }
+     }
 }
